@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Frontend Notes 1
+title: My Web Development Notes 1
 subtitle: 
 categories: Overview-Of-Web-Development
 tags: [Web, Html, Css, Js]

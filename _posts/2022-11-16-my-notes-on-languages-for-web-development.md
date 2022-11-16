@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Frontend Notes 2
+title: My Web Development Notes 2
 subtitle: 
 categories: Languages-For-Web-Development
 tags: [Web, Html, Css, Js]
