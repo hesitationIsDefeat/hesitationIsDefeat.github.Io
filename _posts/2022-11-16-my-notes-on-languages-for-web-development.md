@@ -45,11 +45,11 @@ how it works is simply as follows:
         <button onclick = "doNothing"> CLICK ME! </button>
     </body>
 </html>
-
-we define our function doNothing(), which does nothing, in the script part since it is a JavaScript code. Then we assing this function to onclick value of a button we create and voila. Clicking this button will trigger the function and make our code reactable by the users. 
+```
+We defined our function doNothing(), which does nothing, in the script part since it is a JavaScript code. Then we assigned this function to the onclick value of a button we created and voila. Clicking this button will trigger the function and make our code reactable by the users. 
 
 SQL (structured query language): stores the data
 
-```
+
 
 
