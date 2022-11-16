@@ -26,7 +26,7 @@ My journey with coding began around 7 years ago, with an elementary course on co
 I'm surrounded with amazing people and socializing with them provides me with positivity and joy.
 
 #### Drawing
-I love drawing in black and white and I love tattoos, just looking at them is amazing. What is the most amazing, though, is BLACK AND WHITE TATTOOS.
+I love drawing in black and white and I love tattoos, just looking at them is amazing. What is the most amazing, though, is BLACK AND WHITE TATTOOS. 
 
 #### Travelling
 Travelling to places I've never been before always comes with brand new and unforgettable experiences.
@@ -35,3 +35,4 @@ Travelling to places I've never been before always comes with brand new and unfo
 ### My Social Networks
 
 - [LinkedIn](https://www.linkedin.com/in/onat-tanr%C4%B1%C3%B6ver-a5380a223)
+- [Instagram](https://www.instagram.com/onattanriover/)

@@ -12,7 +12,7 @@ tags: [Markdown, journaling, blog, VSCode, Frontend]
 
 ## HEADINGS
 
-Usage of hashtag determines the level of my headings, which is quite important to divide the content into subgroups and divide them into subgroups as well and then ...
+Usage of hashtag determines the level of my headings, which is quite important to divide the content into subgroups and divide those subgroups into smaller subgroups and then divide...
 
 ## CODE PARTS
 
@@ -69,17 +69,21 @@ x -> 3
 
 ```
 
-## `
-
-To `highlight` a text, we put it in between backticks.
-
 ## ITALIC & BOLD 
 
 To make a text *italic*, we use a single star before and after the text. We use 2 for **bold** and 3 for ***italic and bold***.
 
-## >
+## HIGHLIGHTING
 
-> Usage of a single greater before text segment highlight it.
+There are different ways of highlighting.
+
+### SINGLE TEXT
+
+To `highlight` a text, we put it in between backticks.
+
+### TEXT SEGMENT
+
+> Usage of a single greater before text segment highlights it.
 
 ## Links
 
@@ -112,7 +116,7 @@ Images are very similar to links yet we have to put an exclamation mark before t
 I'm currently using VSCode to create and edit my posts. After I'm done I have to push it to Github, meaning I have to publish it. Here are the steps that I follow:
 
 - Open a terminal
-- Type
+- Type (one by one)
 
 ```
 git status
