@@ -21,9 +21,35 @@ It consists of an opening tag, the content and a closing tag, where the closing 
 <p> p is used for a paragraph <p>
 <a> a is used for links (I suppose) <a>
 <button> button <button> is for creating a button (surprisingly enough)
+```
+
 attribute: it has a name and a value like width = "146.2"
 href (hyperlink reference) attribute: adds an url
-To see it in action, you can click <a href = "https://www.youtube.com/watch?v=jr8J6oYSI_U">here</a> to check out if it works
+
+```HTML
+<a href = "https://www.youtube.com/watch?v=jr8J6oYSI_U">This</a> is now linked to the given url
+```
+
+functions: reusable code blocks that does something (anything!)
+events: makes the page react to user inputs
+how it works is simply as follows:
+
+```HTML
+<html>
+
+    <script>
+        function doNothing() {}
+    </script>
+
+    <body>
+        <button onclick = "doNothing"> CLICK ME! </button>
+    </body>
+</html>
+
+we define our function doNothing(), which does nothing, in the script part since it is a JavaScript code. Then we assing this function to onclick value of a button we create and voila. Clicking this button will trigger the function and make our code reactable by the users. 
+
+SQL (structured query language): stores the data
+
 ```
 
 
