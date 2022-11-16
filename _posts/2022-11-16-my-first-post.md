@@ -100,10 +100,12 @@ Images are very similar to links yet we have to put an exclamation mark before t
 
 ## NUMBERED LISTS
 
-1. Numbered Lists
-    2. bered Lists
-        3.   Lists
-            4. s
+1. Still couldn't
+  2. Figure out
+    3. How this
+      4. Really
+        5. Works
+        
 
 ## PUSHING TO GITHUB
 
@@ -111,6 +113,7 @@ I'm currently using VSCode to create and edit my posts. After I'm done I have to
 
 - Open a terminal
 - Type
+
 ```
 git status
 
@@ -120,6 +123,7 @@ git commit -m "this message describes the changes I've done"
 
 git push origin main
 ```
+
 - Enjoy myself
 
 # CLOSURE
