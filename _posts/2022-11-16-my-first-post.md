@@ -85,7 +85,7 @@ To `highlight` a text, we put it in between backticks.
 
 > Usage of a single greater before text segment highlights it.
 
-## Links
+## LINKS
 
 Usage of brackets before and after a text turns it into a clickable. After the second bracket, we use parentheses to link it to [**THE GREATEST SITE EVER**](https://open.spotify.com/user/onattanriover?si=c6329642c5f34864). Well, technically you can link it to any url you want.
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: My Notes On OVERVIEW OF WEB DEVELOPMENT
+title: My Frontend Notes 1
 subtitle: 
-categories: Web
+categories: Overview-Of-Web-Development
 tags: [Web, Html, Css, Js]
 ---
 
-Here are my notes from the Fullstack Engineering Course of [Codeacademy](https://www.codecademy.com/):
+Here are my notes from the Fullstack Engineering Course of [Codecademy](https://www.codecademy.com/):
 
 - Beginning: Arpanet 1969
 - TCP/IP (The Transmission Control Protocol/Internet Protocol): enables connection b/w early networks
