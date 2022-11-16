@@ -83,7 +83,7 @@ To make a text *italic*, we use a single star before and after the text. We use 
 
 ## Links
 
-Usage of brackets before and after a [text](https://open.spotify.com/user/onattanriover?si=c6329642c5f34864) turns it into a clickable. After the second bracket, we use parentheses to link it to **THE GREATEST SITE EVER**. Well, technically you can link it to any url you want.
+Usage of brackets before and after a text turns it into a clickable. After the second bracket, we use parentheses to link it to [**THE GREATEST SITE EVER**](https://open.spotify.com/user/onattanriover?si=c6329642c5f34864). Well, technically you can link it to any url you want.
 
 ## IMAGES
 
@@ -100,10 +100,10 @@ Images are very similar to links yet we have to put an exclamation mark before t
 
 ## NUMBERED LISTS
 
-1. Point 1.0.0
-    1.Point 1.1.0
-        1. Point 1.1.1
-    2. Point 1.2.0
+1. Numbered Lists
+    2. ered Lists
+        3.  Lists
+            4. ts
 
 ## PUSHING TO GITHUB
 
