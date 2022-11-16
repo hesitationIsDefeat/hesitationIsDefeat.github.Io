@@ -101,9 +101,9 @@ Images are very similar to links yet we have to put an exclamation mark before t
 ## NUMBERED LISTS
 
 1. Numbered Lists
-    2. ered Lists
-        3.  Lists
-            4. ts
+    2. bered Lists
+        3.   Lists
+            4. s
 
 ## PUSHING TO GITHUB
 
