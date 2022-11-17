@@ -70,11 +70,20 @@ We can and probably should create internal links in the page to help the user di
 </html>
 ```
 
-Right now, I'll try to accomplish the same output with using Markdown and HTML. I'll try to understand if HTML code work on this page:
+Right now, I'll try to accomplish the same output with using Markdown and HTML. I'll try to understand if HTML code works on this page:
 
 Using Markdown: **this is bold**
 Using HTML: <strong>I hope this is bold as well</strong>
 
 Whitespaces between HTML code are ignored by the browser.
 
+Commenting: Using !-- and -- will allow you to comment inside af an HTML code, like // for Java and # for Python.
+
+```HTML
+    <!-- This is completely ignored -->
+```
+
+Mozilla Developer Network: It is claimed to the "go to site" when you need to look up anything on web development. The link is <a href="https://developer.mozilla.org/en-US/">here</a>.
+
+A well written page on <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML">debugging</a>.
 
