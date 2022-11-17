@@ -25,4 +25,3 @@ Here are my notes from the Fullstack Engineering Course of [Codecademy](https://
 - controls attribute: Adds basic controls.
 - autoplay attribute: Automatically starts the video/audio when the page loads.
 - loop: Plays the video/audio continuously.
-- 
