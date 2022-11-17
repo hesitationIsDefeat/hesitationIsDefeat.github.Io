@@ -16,4 +16,13 @@ Here are my notes from the Fullstack Engineering Course of [Codecademy](https://
 - main element: Used to hold the main content of the page.
 - footer element: Used to hold information that isn't located in the main such as contacts, extra links etc.
 - section element: Used for dividing the content into related sections.
-- article element: Used for holding 
+- article element: Used for holding .
+- aside element: Used for holding extra information.
+- figure element: Used to hold images.
+- figcaption element: Used for describing the image in the figure. 
+- audio element: Used for playing audio.
+- source element: Determines the source for the audio element (any maybe for more elements).
+- controls attribute: Adds basic controls.
+- autoplay attribute: Automatically starts the video/audio when the page loads.
+- loop: Plays the video/audio continuously.
+- 
