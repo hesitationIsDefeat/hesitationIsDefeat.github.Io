@@ -42,7 +42,7 @@ p {
 
 - rel attribute: It defines the relation between this CSS file with the HTML file. In this case, we are providing a stylesheet.
 
-- When we write <a href="p1">such code</a>, it is applied to all of the paragraphs in our page.
+- When we write <a href=#p1>such code</a>, it is applied to all of the paragraphs in our page.
 - universal selector: Helps us select every element regarless of their type.
 ```CSS
 * {
@@ -83,7 +83,38 @@ video[src*="dog"] {
 
 - Putting * before = means any video element that includes the word "dog" inside of it's src value.
 
+- pseudo classes: It is one of those topics where putting it into words is quite challenging yet it can be easily demonstrated with examples:
 
+```CSS
+h1:hover {
+    font-size: 20px;
+}
+```
 
+We access the pseudo class by writing the element first, then semicolon, then the pseudo class we want to use. In this example, we set the font size of all h1 elements tp 20 pixels when the mouse is places on them.
+
+- All types of pseudo classes are:
+<ul>
+    <li>:focus</li>
+    <li>:visited</li>
+    <li>:disabled</li>
+    <li>:active</li>
+</ul>
+
+- Specifity ranking: id > class > type
+- Chanining: We can combine different selector, say type and class and affect a specific element in our HTML file.
+
+```HTML
+<h1 class="affected">SUP</h1>
+<h1 class="not-affected">SUUUP</h1>
+```
+
+```CSS
+h1.affected {
+    font-size: 20px;
+}
+```
+
+This code will only change the h1 with the affected class and not the other. It can easily be comprehended by thinking of it as set intersection in maths.
 
 
