@@ -117,4 +117,30 @@ h1.affected {
 
 This code will only change the h1 with the affected class and not the other. It can easily be comprehended by thinking of it as set intersection in maths.
 
+- We can also refer to the children of an element by mentioning about the children after the parent.
+
+```HTML
+<ol class="parent">
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
+```
+
+```CSS
+.parent li {
+    color: red;
+}
+```
+
+This can be done with any kind of specifier(as far as I know).
+
+- It is possible to add style to different specifiers at once.
+
+```CSS
+.parent, #child, h1{
+    color: red;
+}
+```
+
 
