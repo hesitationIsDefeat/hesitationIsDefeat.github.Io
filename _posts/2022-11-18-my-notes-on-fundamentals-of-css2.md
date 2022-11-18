@@ -30,4 +30,8 @@ Here are my notes from the Fullstack Engineering Course of [Codecademy](https://
 ```
 - !important: It is used overriding every other declaration on that style of the specific element.
 
+- list-style: Changes the symbol of a list element
+
+
+
 
