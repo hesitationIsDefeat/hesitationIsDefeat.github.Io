@@ -42,7 +42,7 @@ p {
 
 - rel attribute: It defines the relation between this CSS file with the HTML file. In this case, we are providing a stylesheet.
 
-When we write <a href=#p1>such code</a>, it is applied to all of the paragraphs in our page.
+- When we write <a href="#p1">such code</a>, it is applied to all of the paragraphs in our page.
 - universal selector: Helps us select every element regarless of their type.
 ```CSS
 * {
