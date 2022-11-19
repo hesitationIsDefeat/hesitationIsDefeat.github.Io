@@ -9,7 +9,7 @@ tags: [Web, Html, Css]
 Here are my notes from the Fullstack Engineering Course of [Codecademy](https://www.codecademy.com/):
 
 - There are (at least) two different ways of writing CSS:
-- <p id="p1">CSS ruleset: Written as a seperate CSS file.</p
+- <p id="p1">CSS ruleset: Written as a seperate CSS file.</p>
 ```CSS
 p {
     color:red;
