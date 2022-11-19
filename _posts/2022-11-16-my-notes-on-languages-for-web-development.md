@@ -3,7 +3,7 @@ layout: post
 title: My Web Development Notes 2
 subtitle: 
 categories: Languages-For-Web-Development
-tags: [Web, Html, Css, Js]
+tags: [Web, Html]
 ---
 
 Here are my notes from the Fullstack Engineering Course of [Codecademy](https://www.codecademy.com/):

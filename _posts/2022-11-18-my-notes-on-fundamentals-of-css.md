@@ -3,7 +3,7 @@ layout: post
 title: My Web Development Notes 7
 subtitle: 
 categories: Fundamentals-Of-CSS
-tags: [Web, Html, Css, Js]
+tags: [Web, Html, Css]
 ---
 
 Here are my notes from the Fullstack Engineering Course of [Codecademy](https://www.codecademy.com/):
@@ -142,5 +142,3 @@ This can be done with any kind of specifier(as far as I know).
     color: red;
 }
 ```
-
-

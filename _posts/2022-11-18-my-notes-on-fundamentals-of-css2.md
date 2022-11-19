@@ -3,7 +3,7 @@ layout: post
 title: My Web Development Notes 8
 subtitle: 
 categories: Fundamentals-Of-CSS
-tags: [Web, Html, Css, Js]
+tags: [Web, Html, Css]
 ---
 
 Here are my notes from the Fullstack Engineering Course of [Codecademy](https://www.codecademy.com/):
