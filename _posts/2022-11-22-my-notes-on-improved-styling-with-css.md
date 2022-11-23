@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Web Development Notes 11
+title: My Web Development Notes 12
 subtitle: 
 categories: Improved-Styling-With-CSS
 tags: [Css]
@@ -57,6 +57,12 @@ Here are my notes from the Fullstack Engineering Course of [Codecademy](https://
         - :visited:Triggers after the element is clicked.
         - :hover: Triggers when the cursor is hovered over the element.
         - :active: Triggers when the element is clicked.
+    
+    - Secondary Navigation:
+        - Breadcrumbs: Shows the path that lead to this page (e.g. home/activities/sports/basketball).
+        - element1 + element2 selector: This selector selects element2 only when element1 is followed by element2.
+        - ::before: This pseudo element adds a "content" before the selected element.
+
 
 
 
