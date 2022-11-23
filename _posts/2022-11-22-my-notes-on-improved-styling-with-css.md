@@ -49,7 +49,14 @@ Here are my notes from the Fullstack Engineering Course of [Codecademy](https://
         }
 
         ```
-        
+    - Links and Buttons:
+        - text-decoration: Underline-overline, dotted-wavy, color
+        - title: An explanation for the link.
+        - cursor: Changes the shape of the cursor when the cursor is placed on the element.
+        - :link: Triggers before the element is clicked.
+        - :visited:Triggers after the element is clicked.
+        - :hover: Triggers when the cursor is hovered over the element.
+        - :active: Triggers when the element is clicked.
 
 
 
