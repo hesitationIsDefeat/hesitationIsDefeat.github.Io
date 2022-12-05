@@ -51,7 +51,7 @@ Here are my notes from the Fullstack Engineering Course of [Codecademy](https://
                 - row-reverse: Flex items are now aligned right to left
                 - column: Flex items are now aligned top to bottom.
                 - column-reverse: Flex items are now aligned bottom to top.
-            - flex-flow: Used for declaring flex-wrap and flex-direction in one line.
+            - flex-flow: Used for declaring flex-direction and flex-wrap in one line.
 
     - Flex Item: Flexes all over the place.
         - flex-grow: Takes an integer value (I suppose) and determines the ratio b/w the growth quantitites of flex elements in the same flex container.
