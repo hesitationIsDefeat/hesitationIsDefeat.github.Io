@@ -24,7 +24,7 @@ WOOOOAAW
 */
 ```
 
-Data Types
+Data Types:
 <ul>
     <li>
     Primitive
@@ -37,48 +37,62 @@ Data Types
         <li>Symbol</li>
         </ul>
     </li>
-    <li>Object Collections of data.</li>
+    <li>Object: Collections of data.</li>
 </ul>
 
 Operators:
-    - Addition: +
-    - Subtraction: -
-    - Multiplication: *
-    - Division: /
-    - Remainder: %
-    - String Concatenation: "string" + "string"
-    - Dot: . (used for reaching the properties or applying methods)
-    - Assignment: += (-=, *=, /=) 
-    - Incrementation: ++ (--)
-    - typeof
-    
+<ul>
+    <li>Addition: +</li>
+    <li>Subtraction: -</li>
+    <li>Multiplication: *</li>
+    <li>Division: /</li>
+    <li>Remainder: %</li>
+    <li>String Concatenation: "string" + "string"</li>
+    <li>Dot: . (used for reaching the properties or applying methods)</li>
+    <li>Assignment: += (-=, *=, /=) </li>
+    <li>Incrementation: ++ (--)</li>
+    <li>typeof</li>
+</ul>
 
 Properties:
-    - String:
-        - .length
+<ul>
+    <li>
+    String:
+    <li>.length</li>
+    </li>
+</ul>
 
 Methods:
-    - String:
-        - .toUpperCase()
-        - .startsWith()
-        - .trim()
-    
-    - console:
-        - log
-
-    - Math:
-        - .floor()
-        - .random()
-        - .ceil()
-
-    - Number:
-        - .isInteger()
-
+<ul>
+    <li>
+    String:
+        <li>.toUpperCase()</li>
+        <li>.startsWith()</li>
+        <li>.trim()</li>
+    </li>
+    <li>
+    console:
+        <li>log</li>
+    </li>
+     <li>
+    Math:
+        <li>.floor()</li>
+        <li>.random()</li>
+        <li>.ceil()</li>
+    </li>
+    <li>
+    Number:
+        <li>.isInteger()</li>
+    </li>
+</ul>
 
 Objects:
-    - console
-    - Math
-    - Number
+<ul>
+    <li>console</li>
+    <li>Math</li>
+    <li>Number</li>
+</ul>
+
 
 Variables:
 
