@@ -25,14 +25,22 @@ WOOOOAAW
 ```
 
 Data Types:
-    - Primitive:
-        - Number
-        - String
-        - Boolean
-        - Null
-        - Undefined: Means the value doesn't exist.
-        - Symbol
-    - Object: Collections of data.
+    <ul>
+        <li>
+        Primitive:
+            <ul>
+            <li>Number</li>
+            <li>String</li>
+            <li>Boolean</li>
+            <li>Null</li>
+            <li>Undefined: Means the value doesn't exist.</li>
+            <li>Symbol</li>
+            </ul>
+        </li>
+        <li>
+        Object: Collections of data.
+        </li>
+    </ul>
 
 Operators:
     - Addition: +
