@@ -111,5 +111,88 @@ console.log(`Hilarious people tend to call me ${name} sometimes.`);
 // Backticks are used for string literal and they can be achieved by pressing alt and comma on my keyboard.
 ```
 
+Conditionals:
+
+```JavaScript
+let number = 1;
+if (number === 15032002>) {
+    // this executes
+} else if (number >= 18052002>) {
+    // this executes
+} else {
+    // this executes
+}
+```
+
+Falsy Values: The values that aren't boolean in type but are evaluted as false inside of an if condition.
+<ul>
+    <li>0</li>
+    <li>""</li>
+    <li>null</li>
+    <li>undefined</li>
+    <li>NaN</li>
+</ul>
+
+Short-Circuit Evaluation: 
+
+```JavaScript
+let input = "";
+let name = input || "Onat"; // this code assignes the truthy value to the name variable, starts checking from the left hand side.
+```
+Ternary Operator: 
+
+```JavaScript
+let condition = true;
+condition ? console.log("Condition is true") : console.log("Condition is false");
+```
+
+Switch:
+
+```JavaScript
+let number = 3;
+switch(number) {
+    case 1:
+        console.log("Number is 1");
+        break;
+    case 2: 
+    console.log("Number is 2");
+        break;
+    default:
+        console.log("Number isn't 1 or 2");
+        break;
+}
+```
+
+Functions:
+
+```JavaScript
+const alive = true;
+function myFunction() {
+    while (alive) { // haven't covered loops yet but it was a matter of life and death
+        beAwsome(); // another function that will be defined in the near future
+    }
+}
+
+function beAwsome(howManyTimes = 10) { // 10 is the default parameter
+    console.log(`I'm ${howManyTimes} many times awsome today`);
+}
+
+// if return value of a function isn't specified, it returns undefined
+
+const variable = function(parameter) {
+
+} // can later be called as variable(parameter)
+
+const variable = (parameter1, parameter2) => {
+    // multiple lines
+    // of code
+} 
+
+const variable = parameter1 => parameter1 * 5;
+```
+
+
+
+
 
 
