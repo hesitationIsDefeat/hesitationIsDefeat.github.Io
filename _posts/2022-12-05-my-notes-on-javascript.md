@@ -25,22 +25,20 @@ WOOOOAAW
 ```
 
 Data Types
-    <ul>
-        <li>
-        Primitive
-            <ul>
-            <li>Number</li>
-            <li>String</li>
-            <li>Boolean</li>
-            <li>Null</li>
-            <li>Undefined: Means the value doesn't exist.</li>
-            <li>Symbol</li>
-            </ul>
-        </li>
-        <li>
-        Object Collections of data.
-        </li>
-    </ul>
+<ul>
+    <li>
+    Primitive
+        <ul>
+        <li>Number</li>
+        <li>String</li>
+        <li>Boolean</li>
+        <li>Null</li>
+        <li>Undefined: Means the value doesn't exist.</li>
+        <li>Symbol</li>
+        </ul>
+    </li>
+    <li>Object Collections of data.</li>
+</ul>
 
 Operators:
     - Addition: +
