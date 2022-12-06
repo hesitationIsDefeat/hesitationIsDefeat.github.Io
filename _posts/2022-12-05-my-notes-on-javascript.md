@@ -24,10 +24,10 @@ WOOOOAAW
 */
 ```
 
-Data Types:
+Data Types
     <ul>
         <li>
-        Primitive:
+        Primitive
             <ul>
             <li>Number</li>
             <li>String</li>
@@ -38,7 +38,7 @@ Data Types:
             </ul>
         </li>
         <li>
-        Object: Collections of data.
+        Object Collections of data.
         </li>
     </ul>
 
