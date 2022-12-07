@@ -191,6 +191,14 @@ const variable = (parameter1, parameter2) => {
 const variable = parameter1 => parameter1 * 5;
 ```
 
+Scope:
+
+```JavaScript
+let variable = true; // this variable is defined in the global scope, meaning it can be accesed everyhere in the code
+function func() { // block starts
+    let funcVar = false; // this variable is defined in the block scope, meaning it only exists in this block 
+} // block ends
+```
 
 
 
