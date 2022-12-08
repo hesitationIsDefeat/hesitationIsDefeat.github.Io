@@ -8,4 +8,22 @@ tags: [JS]
 
 Here are my notes from the Fullstack Engineering Course of [Codecademy](https://www.codecademy.com/):
 
+Arrays:
 
+```JavaScript
+let myArray = ["str", 12, true, undefined]; // arrays are ordered, can take values of different types, indexing starts at 0
+let myMutableArray = []; // contents of this array can be changed as well as the arrays itself
+const myMutableArray2 = []; // contents of this array can be changed but the array itself remains constant
+```
+
+Methods:
+<ul>
+    <li>.length</li>
+    <li>.push(item1, item2): adds the given items to the end of the array</li>
+    <li>.pop(): removes the last item of the array</li>
+    <li>.shift(): removes and returns the first item on the array</li>
+    <li>.unshift(item): adds the input to the first item on the array</li>
+    <li>.slice(index1, index2): returns an array from the item at index1 up to the item at the index index2-1</li>
+    <li>.indexOf(item)</li>
+    <li>.length</li>
+</ul>
