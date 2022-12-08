@@ -25,5 +25,36 @@ Methods:
     <li>.unshift(item): adds the input to the first item on the array</li>
     <li>.slice(index1, index2): returns an array from the item at index1 up to the item at the index index2-1</li>
     <li>.indexOf(item)</li>
-    <li>.length</li>
+    <li>.length (this is a property)</li>
+    <li>.join()</li>
+    <li>.splice(index, number of indices, string to replace with)</li>
+    <li>.includes(element)</li>
 </ul>
+
+Loops:
+
+```JavaScript
+for (let i = 0; i <= 10; i++>) {
+    console.log(i);
+}
+
+const myArray = ["myElement1", "myElement2", "IAmVeryCreative"];
+for (const element of myArray) {
+    if (element !== "IAmVeryCreative") {
+        continue;
+    } else console.log(element);
+}
+
+let i = 0;
+while (i < 5) {
+    console.log(i);
+    i ++;
+}
+
+let i = 0;
+do {
+console.log(i);
+    i ++;
+} while (i < 5);
+
+```
