@@ -56,5 +56,24 @@ do {
 console.log(i);
     i ++;
 } while (i < 5);
+```
 
+Objects:
+
+```JavaScript
+let myObject = {
+    prop1: 12,
+    prop2: "waow",
+    "prop three": true
+    doSomething (input) {
+        console.log("Did something!");
+    }
+};
+
+console.log(myObject.prop2);
+console.log(myObject["prop1"]);
+
+myObject.newProp = "this"; // if the newProp already exists, it is changed. Otherwise, it is created
+
+delete myObject.newProp;
 ```
