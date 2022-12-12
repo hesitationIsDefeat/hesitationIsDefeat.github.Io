@@ -133,4 +133,43 @@ Bult-in Methods:
     <li>Object.assign(target, source)</li>
 </ul>
 
+```JavaScript
+const aFunctionWithAnExtremelyLongNameForNoReasonWhatsoever = () => {
 
+}
+const shortName = aFunctionWithAnExtremelyLongNameForNoReasonWhatsoever; // this way, we can invoke this disturbingly named function with a shorter name
+```
+
+Iterators:
+
+```JavaScript
+const myArray = [1, 2, 3];
+myArray.forEach(number => console.log(number)); // iterates through the whole array and executes a certain action for every element
+const myArray2 = myArray.map(num => num * 5); // iterates through the whole array and returns a new array by applying a certain action on every element
+const myArray3 = myArray.filter(num => num < 3) // // iterates through the whole array and returns a new array by applying a certain filter
+
+const greaterThan2 = myArray.findIndex(num => num > 2); // returns the index of the first element that meets the given condition
+const sum = myArray.reduce((first, second) => {
+    return first + second;
+}, 20); // I know what it does so I won't bother with explaining it, 20 is an extra argument and defines the first value of the first value
+const var = myArray.some(num => num > 1); // returns true if some numbers in the array are greater than 1
+const var2 = myArray.every(num => num > 1); // returns true if all numbers in the array are greater than 1
+```
+Error Types:
+
+<ul>
+    <li>TypeError</li>
+    <li>ReferenceError</li>
+    <li>SyntaxError</li>
+</ul>
+
+Sort Method:
+
+```JavaScript
+const numbers = [1, 5, 3];
+console.log(numbers.sort((a,b) => {
+    if (a > b) return -1; // places a before b
+    else if (a <> b) return 1; // places a after b
+    else return 0;
+}))
+```
