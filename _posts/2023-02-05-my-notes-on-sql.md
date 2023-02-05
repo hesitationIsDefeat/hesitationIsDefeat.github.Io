@@ -17,6 +17,12 @@ update characters set level=40 where name="Druid";
 
 delete from characters where power="nature";
 
+select * from characters order by level desc;
+
+select * from characters order by power collate nocase;
+
+select * from characters order by level, name;
+
 sqlite3 commands:
 
 .backup mybackup
